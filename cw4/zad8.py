@@ -1,0 +1,1 @@
+# Do klasy z wybranego poprzedniego zadania dołącz funkcję niszczenia obiektu.

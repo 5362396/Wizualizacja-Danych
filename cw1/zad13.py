@@ -1,0 +1,3 @@
+#Stwórz słownik, gdzie zapiszesz imiona i nazwiska swoich znajomych jako klucz proszę użyć ich przezwisk (10 elementów). Następnie wyświetl kilka danych odwołując się do elementów przez klucz.
+slownik={"Piotras":"Piotr Martyniuk","Regi":"Szymon Nasiadka","Alex":"Aleksander Chojnowski","Majeranek":"Kasper Orłowski","Murarz":"Michał Murawski","Papug":"Jakub Papuga","Viskars":"Wiktor Praczyk","Dybcio":"Kuba Dybcio","Małec":"Jakub Małecki","Szwed":"Maciej Białek"}
+print(slownik["Dybcio"])

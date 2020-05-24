@@ -1,0 +1,11 @@
+#Stwórz skrypt kalkulator, w którym wykorzystać wszystkie podstawowe działania arytmetyczne
+print("Wpisz pierwszą liczbę")
+a=int(input())
+print("Wpisz drugą liczbę")
+b=int(input())
+print(a ,"+",b,"=",a+b )
+print(a ,"-",b,"=",a-b )
+print(a ,"*",b,"=",a*b )
+print(a ,"/",b,"=",a/b )
+print(a ,"%",b,"=",a%b )
+print(a ,"^",b,"=",pow(a,b) )
